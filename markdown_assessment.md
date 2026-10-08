@@ -31,3 +31,12 @@ if (total > 10) {
 > "Best chopped cheese in East Harlme, and **free cookie** deal is *genius*!"
 
 ---
+## Find Us On line
+Follow our daily location on [Instagram](https://www.instagram.com/?hl=en), or read our reveiws on [Yelp](https://www.instagram.com/?hl=en).
+
+Want to build an app like ours? Start learning here:
+
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+---

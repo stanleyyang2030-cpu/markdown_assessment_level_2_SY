@@ -28,7 +28,7 @@ if (total > 10) {
 ```
 ---
 > ## What Customers Are Saying
-> "Best chopped cheese in East Harlme, and **free cookie** deal is *genius*!"
+> "Best chopped cheese in East Harlem, and **free cookie** deal is *genius*!"
 
 ---
 ## Find Us On line

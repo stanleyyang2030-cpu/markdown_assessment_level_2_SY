@@ -40,3 +40,4 @@ Want to build an app like ours? Start learning here:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ---
+`git push origin main` - the command we run every time we add a new itme to the menu!
